@@ -19,4 +19,4 @@ Ask: "run CHECK on this instruction: ..." or "does this system prompt line actua
 - `SKILL.md`: the skill
 - `references/practical-guide.md`: methods, test-set building, rubric anchors, pitfalls
 
-Adapted from the CHECK framework (FounderPlus, 2026).
+Adapted from the CHECK framework (Shafry Yusuf Al Juni, 2026).
